@@ -1,0 +1,9 @@
+build/
+bin/
+*.o
+*.drmlgunit
+*.mk2unit
+m1_drumlogue/.dep/
+m1_microkorg2/.dep/
+m1_drumlogue/*.d
+m1_microkorg2/*.d

@@ -1,0 +1,3 @@
+[submodule "third_party/pvsc"]
+	path = third_party/pvsc
+	url = https://github.com/Michi71/PicoVintageSynthCollection.git
